@@ -4,6 +4,7 @@
     "description": "A project template to for leetcode solutions in PHP.",
     "keywords": ["template", "PHP", "leetcode", "composer", "tests"],
     "homepage": "https://github.com/dotZak/php-leetcode-template",
+    "license": "GPLv3",
     "require-dev": {
         "phpunit/phpunit": "^11"
     },
@@ -19,5 +20,6 @@
             "homepage": "https://www.zakknudsen.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }
